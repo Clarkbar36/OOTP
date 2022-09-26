@@ -1,0 +1,401 @@
+"ID","Name","Nickname","Parent Team ID"
+1,Arizona,Diamondbacks,0
+2,Atlanta,Braves,0
+3,Baltimore,Orioles,0
+4,Boston,Red Sox,0
+5,Chicago,White Sox,0
+6,Chicago,Cubs,0
+7,Cincinnati,Reds,0
+8,Cleveland,Guardians,0
+9,Colorado,Rockies,0
+10,Detroit,Tigers,0
+11,Miami,Marlins,0
+12,Houston,Astros,0
+13,Kansas City,Royals,0
+14,Los Angeles,Angels,0
+15,Los Angeles,Dodgers,0
+16,Milwaukee,Brewers,0
+17,Minnesota,Twins,0
+18,New York,Yankees,0
+19,New York,Mets,0
+20,Oakland,Athletics,0
+21,Philadelphia,Phillies,0
+22,Pittsburgh,Pirates,0
+23,San Diego,Padres,0
+24,Seattle,Mariners,0
+25,San Francisco,Giants,0
+26,St. Louis,Cardinals,0
+27,Tampa Bay,Rays,0
+28,Texas,Rangers,0
+29,Toronto,Blue Jays,0
+30,Washington,Nationals,0
+54,American League,All-Stars,0
+55,National League,All-Stars,0
+86,Columbus,Clippers,8
+87,Lehigh Valley,IronPigs,21
+88,Pawtucket,Red Sox,4
+89,Rochester,Red Wings,17
+90,Scranton WB,RailRiders,18
+91,Syracuse,Mets,19
+92,Charlotte,Knights,5
+93,Durham,Bulls,27
+94,Norfolk,Tides,3
+95,Gwinnett,Braves,2
+96,Fresno,Grizzlies,30
+97,Indianapolis,Indians,22
+98,Louisville,Bats,7
+99,Toledo,Mud Hens,10
+100,Iowa,Cubs,6
+101,Memphis,Redbirds,26
+102,Las Vegas,Aviators,20
+103,Omaha,Storm Chasers,13
+104,New Orleans,Zephyrs,11
+105,Buffalo,Bisons,29
+106,Oklahoma City,Dodgers,15
+107,Nashville,Sounds,28
+108,Colorado Springs,Sky Sox,16
+109,El Paso,Chihuahuas,23
+110,Salt Lake,Bees,14
+111,Tacoma,Rainiers,24
+112,Round Rock,Express,12
+113,Albuquerque,Isotopes,9
+114,Sacramento,River Cats,25
+115,Reno,Aces,1
+116,Binghamton,Mets,19
+117,New Britain,Rock Cats,9
+118,New Hampshire,Fisher Cats,29
+119,Richmond,Flying Squirrels,25
+120,Portland,Sea Dogs,4
+121,Trenton,Thunder,18
+122,Akron,RubberDucks,8
+123,Altoona,Curve,22
+124,Bowie,Baysox,3
+125,Erie,SeaWolves,10
+126,Harrisburg,Senators,30
+127,Reading,Fightin Phils,21
+128,Jacksonville,Suns,11
+129,Pensacola,Blue Wahoos,7
+130,Biloxi,Shuckers,16
+131,Tennessee,Smokies,6
+132,Jackson,Generals,24
+133,Birmingham,Barons,5
+134,Mississippi,Braves,2
+135,Mobile,BayBears,1
+136,Montgomery,Biscuits,27
+137,Chattanooga,Lookouts,17
+138,Arkansas,Travelers,14
+139,Springfield,Cardinals,26
+140,Tulsa,Drillers,15
+141,Northwest Arkansas,Naturals,13
+142,Frisco,RoughRiders,28
+143,Midland,RockHounds,20
+144,San Antonio,Missions,23
+145,Corpus Christi,Hooks,12
+146,Bakersfield,Blaze,24
+147,Modesto,Nuts,9
+148,San Jose,Giants,25
+149,Stockton,Ports,20
+150,Visalia,Rawhide,1
+151,High Desert,Mavericks,28
+152,Inland Empire,66ers,14
+153,Lake Elsinore,Storm,23
+154,Salem,Red Sox,4
+155,Rancho Cucamonga,Quakes,15
+156,Frederick,Keys,3
+157,Bradenton,Marauders,22
+158,Potomac,Nationals,30
+159,Wilmington,Blue Rocks,13
+160,Carolina,Mudcats,2
+161,Myrtle Beach,Pelicans,6
+162,Lancaster,JetHawks,12
+163,Winston-Salem,Dash,5
+164,Brevard County,Manatees,16
+165,Daytona,Tortugas,7
+166,Jupiter,Hammerheads,11
+167,Palm Beach,Cardinals,26
+168,St. Lucie,Mets,19
+169,Charlotte,Stone Crabs,27
+170,Clearwater,Threshers,21
+171,Dunedin,Blue Jays,29
+172,Fort Myers,Miracle,17
+173,Lakeland,Flying Tigers,10
+174,Lynchburg,Hillcats,8
+175,Tampa,Yankees,18
+176,Great Lakes,Loons,15
+177,Dayton,Dragons,7
+178,Fort Wayne,TinCaps,23
+179,Lansing,Lugnuts,29
+180,South Bend,Cubs,6
+181,West Michigan,Whitecaps,10
+182,Beloit,Snappers,20
+183,Burlington,Bees,14
+184,Cedar Rapids,Kernels,17
+185,Hickory,Crawdads,28
+186,Kane County,Cougars,1
+187,Peoria,Chiefs,26
+188,Quad Cities,River Bandits,12
+189,Clinton,LumberKings,24
+190,Delmarva,Shorebirds,3
+191,Hagerstown,Suns,30
+192,West Virginia,Power,22
+193,Lake County,Captains,8
+194,Lakewood,BlueClaws,21
+195,Lexington,Legends,13
+196,Wisconsin,Timber Rattlers,16
+197,Greensboro,Grasshoppers,11
+198,Asheville,Tourists,9
+199,Augusta,GreenJackets,25
+200,Greenville,Drive,4
+201,Charleston,RiverDogs,18
+202,Bowling Green,Hot Rods,27
+203,Kannapolis,Intimidators,5
+204,Rome,Braves,2
+205,Savannah,Sand Gnats,19
+206,Aberdeen,Ironbirds,3
+207,Brooklyn,Cyclones,19
+208,Hudson Valley,Renegades,27
+209,Staten Island,Yankees,18
+210,Auburn,Doubledays,30
+211,Batavia,Muckdogs,11
+212,West Virginia,Black Bears,22
+213,Mahoning Valley,Scrappers,8
+214,State College,Spikes,26
+215,Williamsport,Crosscutters,21
+216,Lowell,Spinners,4
+217,Connecticut,Tigers,10
+218,Tri-City,ValleyCats,12
+219,Vermont,Lake Monsters,20
+220,Boise,Hawks,9
+221,Spokane,Indians,28
+222,Tri-City,Dust Devils,23
+223,Hillsboro,Hops,1
+224,Eugene,Emeralds,6
+225,Everett,AquaSox,24
+226,Salem-Keizer,Volcanoes,25
+227,Vancouver,Canadians,29
+238,Milwaukee (AZL),Brewers,16
+239,Texas (AZL),Rangers,28
+240,Chicago N (AZL),Cubs,6
+241,Los Angeles A (AZL),Angels,14
+242,Seattle (AZL),Mariners,24
+243,Oakland (AZL),Athletics,20
+244,San Francisco (AZL),Giants,25
+245,Los Angeles N (AZL),Dodgers,15
+246,Washington (GCL),Nationals,30
+247,Miami (GCL),Marlins,11
+248,St. Louis (GCL),Cardinals,26
+249,Atlanta (GCL),Braves,2
+250,Philadelphia (GCL),Phillies,21
+251,Toronto (GCL),Blue Jays,29
+252,Detroit (GCL),Tigers,10
+253,New York A (GCL),Yankees,18
+254,Cleveland (AZL),Indians,8
+255,Pittsburgh (GCL),Pirates,22
+256,Cincinnati (AZL),Reds,7
+257,Boston (GCL),Red Sox,4
+258,Minnesota (GCL),Twins,17
+259,Baltimore (GCL),Orioles,3
+260,Billings,Mustangs,7
+261,Great Falls,Voyagers,5
+262,Helena,Brewers,16
+263,Missoula,Osprey,1
+264,Grand Junction,Rockies,9
+265,Idaho Falls,Chukars,13
+266,Ogden,Raptors,15
+267,Orem,Owlz,14
+268,American Conference,All-Stars,0
+269,Pacific Conference,All-Stars,0
+270,Northern Division,All-Stars,0
+271,Southern Division,All-Stars,0
+272,North Division,All-Stars,0
+273,South Division,All-Stars,0
+274,North Division,All-Stars,0
+275,South Division,All-Stars,0
+276,North Division,All-Stars,0
+277,South Division,All-Stars,0
+278,Northern Division,All-Stars,0
+279,Southern Division,All-Stars,0
+280,FSL North,All-Stars,0
+281,FSL South,All-Stars,0
+282,Eastern Division,All-Stars,0
+283,Western Division,All-Stars,0
+284,Northern Division,All-Stars,0
+285,Southern Division,All-Stars,0
+286,San Diego (AZL),Padres,23
+287,Houston (GCL),Astros,12
+288,San Francisco (GCL),Giants,25
+289,Arizona (AZL),Diamondbacks,1
+290,Cleveland (GCL),Indians,8
+291,Colorado (GCL),Rockies,9
+292,East Division,All-Stars,0
+293,West Division,All-Stars,0
+337,Jamestown,Jammers,11
+338,Chicago A (AZL),White Sox,5
+339,Kansas City (AZL),Royals,13
+342,Danville,Braves,2
+343,Greeneville,Astros,12
+344,Johnson City,Cardinals,26
+345,Kingsport,Mets,19
+346,Burlington,Royals,13
+347,Bluefield,Blue Jays,29
+348,Princeton,Rays,27
+349,Elizabethron,Twins,17
+350,Pulaski,Yankees,18
+351,Bristol,Pirates,22
+352,All-Stars,All-Stars,0
+353,Sub League 2,All-Stars,0
+354,North,All-Stars,0
+355,South,All-Stars,0
+356,Aurora,Crew,20
+357,Hialeah,Alouettes,23
+358,Yonkers,Gold Sox,30
+361,Llano Grande,Pipeliners,6
+362,Trappe,Isotopes,10
+363,Walker Mill,Clippers,21
+364,Washburn,Continentals,27
+368,Prophetstown,Alpines,17
+369,Laredo,Gaels,16
+370,Portsmouth,Blizzard,15
+371,Superior,Daredevils,14
+372,Coulee Dam,Thrashers,5
+373,Nashua,Silver Knights,2
+376,Huntington Beach,Crusaders,19
+377,St. Paul,Warlords,24
+378,Green Valley,Dinos,28
+379,Tucson,Keys,3
+380,Glendale,Skyhawks,4
+381,Trempealeau,Bulldozers,7
+382,American League,Future Stars,0
+383,National League,Future Stars,0
+384,Charlotte HS,Wizards,0
+385,Dallas HS,Thunder Dogs,0
+386,Ft. Worth HS,Brown Bears,0
+387,Austin HS,Bayhawks,0
+388,Raleigh HS,Leafs,0
+389,Portland HS,Gryphons,0
+390,Virginia Beach HS,Wolf Pack,0
+391,Springfield HS,Golden Eagles,0
+392,Long Beach HS,Canaries,0
+393,Phoenix HS,Wolves,0
+394,Santa Ana HS,Moose,0
+395,Honolulu HS,Jayhawks,0
+396,Wichita HS,Odyssey,0
+397,Scottsdale HS,Fire,0
+398,Mesa HS,Velocity,0
+399,Tempe HS,Thoroughbreds,0
+400,Charlotte HS,Stags,0
+401,Pomona HS,Blue Falcons,0
+402,Ontario HS,Tropics,0
+403,Brownsville HS,Hops,0
+404,Little Rock HS,Scorpions,0
+405,Tucson HS,Beavers,0
+406,Newark HS,Bay Sox,0
+407,Minneapolis HS,Pride,0
+408,Moreno Valley HS,Browns,0
+409,New York HS,Hillcats,0
+410,San Diego HS,Purple Warriors,0
+411,Santa Ana HS,Dynamo,0
+412,San Diego HS,Lone Stars,0
+413,Aurora HS,Surge,0
+414,Houston HS,Destroyers,0
+415,Corona HS,Donkeys,0
+416,Columbus HS,Royals,0
+417,Fontana HS,Aviators,0
+418,Orlando HS,Giants,0
+419,Lubbock HS,Snappers,0
+420,Baton Rouge HS,Celtics,0
+421,Columbus HS,Trains,0
+422,Albuquerque HS,Red Raiders,0
+423,Sacramento HS,All-Stars,0
+424,Rockford HS,Paladins,0
+425,Garden Grove HS,Devils,0
+426,Seattle HS,Cubs,0
+427,Washington HS,Bengals,0
+428,Sacramento HS,Steelers,0
+429,Phoenix HS,Avalanche,0
+430,Tulsa HS,Greyhounds,0
+431,Honolulu HS,Inferno,0
+432,Nashville HS,Lightning,0
+433,Paradise HS,Princes,0
+434,Shreveport HS,Tropics,0
+435,Oakland HS,Seahawks,0
+436,Pembroke Pines HS,Mounties,0
+437,Madison HS,Roadrunners,0
+438,El Paso HS,Flyers,0
+439,Anaheim HS,Bay Hawks,0
+440,Charlotte HS,Green Wave,0
+441,Portland HS,Black Bears,0
+442,Houston HS,Big Train,0
+443,Phoenix HS,Nuts,0
+444,Irvine HS,Trail Blazers,0
+445,Oklahoma City HS,Crocs,0
+446,Philadelphia HS,Magicians,0
+447,Glendale HS,Barnstormers,0
+448,Philadelphia HS,Archers,0
+449,Tulsa HS,Red Barons,0
+450,Ft. Lauderdale HS,Ports,0
+451,Chula Vista HS,Rampage,0
+452,San Diego HS,Torpedoes,0
+453,Brooklyn HS,Thunder Cats,0
+454,Oakland HS,Ambassadors,0
+455,Oxnard HS,Chameleons,0
+456,North Las Vegas College,Explosion,0
+457,Philadelphia College,Rays,0
+458,Lincoln College,Raging Bulls,0
+459,Seattle College,Swarm,0
+460,Tallahassee College,Vipers,0
+461,Austin College,Parrots,0
+462,Seattle College,Night Hawks,0
+463,Providence College,Berserkers,0
+464,Santa Clarita College,Navigators,0
+465,Sunrise Manor College,Battle Kings,0
+466,Charlotte College,Frozen Ropes,0
+467,Phoenix College,Pirates,0
+468,Virginia Beach College,Marksmen,0
+469,Paterson College,Pump Jacks,0
+470,Vancouver College,Bulls,0
+471,Arlington College,Marlins,0
+472,Arlington College,Barons,0
+473,Henderson College,Ambassadors,0
+474,Brooklyn College,White Wings,0
+475,Aurora College,Sun Dogs,0
+476,Worcester College,Bees,0
+477,Atlanta College,Red Aces,0
+478,Oklahoma City College,Wild Riders,0
+479,New Orleans College,Silver Knights,0
+480,Miami College,Shamrocks,0
+481,Baltimore College,Lumber Kings,0
+482,Nashville College,Red Hawks,0
+483,Pittsburgh College,Revolution,0
+484,Salem College,Swashbucklers,0
+485,Overland Park College,North Stars,0
+486,Milwaukee College,Waveriders,0
+487,Milwaukee College,Night Train,0
+488,Gilbert College,Astros,0
+489,Milwaukee College,Rascals,0
+490,Las Vegas College,Mammoths,0
+491,Nashville College,Princes,0
+492,Medford College,Apple Sox,0
+493,Anaheim College,Grizzlies,0
+494,Jersey City College,River Rats,0
+495,Memphis College,Oilers,0
+496,Dallas College,Flames,0
+497,Columbus College,Scarecrows,0
+498,Phoenix College,Penguins,0
+499,Jersey City College,Vulcans,0
+500,Fremont College,Red Sox,0
+501,Los Angeles College,Gophers,0
+502,Los Angeles College,76ers,0
+503,Philadelphia College,Tyrants,0
+504,Columbus College,Heat,0
+505,Chandler College,Diamond Cats,0
+506,Columbus College,Jayhawks,0
+507,Oklahoma City College,Boomers,0
+508,Conference 1,All-Stars,0
+509,Conference 2,All-Stars,0
+510,Conference 1,All-Stars,0
+511,Conference 2,All-Stars,0
+512,Conference 1,All-Stars,0
+513,Conference 2,All-Stars,0
+514,Conference 1,All-Stars,0
+515,Conference 2,All-Stars,0
